@@ -1,0 +1,6 @@
+{
+  "name": "Website Development Course Landing Page & Marketing Hub",
+  "description": "A high-converting landing page for the ₹499 Website Development Course by AK Development, featuring a built-in AI Marketing Hub to generate Meta Ads, reels, posters, and Canva copy targeted at students, homemakers, job seekers, and entrepreneurs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
